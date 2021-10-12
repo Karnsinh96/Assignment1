@@ -14,3 +14,4 @@ else:
         print(z)
         x = y
         y = z
+        z=x+y
